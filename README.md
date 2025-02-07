@@ -1,2 +1,1 @@
- Dashboard projects
-(files with .pbix only can be accessed with Microsoft Power BI)
+Visualization data is represented in reports and dashboards by exploring Sales and Customer Bikes data, social media marketing, World Population data and Vehicle analysis data. Files with a .pbix extension can only be accessed using Microsoft Power BI.
